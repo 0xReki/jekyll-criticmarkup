@@ -2,7 +2,7 @@
 
 Gem::Specification.new do |spec|
   spec.name          = "jekyll-criticmarkup"
-  spec.version       = "0.0.1"
+  spec.version       = "0.0.2"
   spec.authors       = ["Thai Chung"]
   spec.email         = ["mail@0xReki.de"]
   spec.summary       = "CriticMarkup"
